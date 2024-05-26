@@ -1,0 +1,23 @@
+{
+  "name": "node_api_jwt",
+  "version": "1.0.0",
+  "description": "JSON web token tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dielawn/node_api_jwt.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dielawn/node_api_jwt/issues"
+  },
+  "homepage": "https://github.com/dielawn/node_api_jwt#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
